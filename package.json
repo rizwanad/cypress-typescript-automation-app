@@ -6,7 +6,8 @@
     "@types/node": "^10.12.11"
   },
   "scripts": {
-    "test": "cypress run"
+    "test": "cypress run",
+    "cypress:open": "cypress open"
   },
   "devDependencies": {
     "@cypress/webpack-preprocessor": "^4.0.2",

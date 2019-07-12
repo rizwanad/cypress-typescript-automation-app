@@ -1,0 +1,17 @@
+{
+    "originInput": "kara",
+    "originShortName": "Karaganda",
+    "originSelection": "Karaganda, Kazakhstan",
+    "destinationInput": "Paris Charl",
+    "destinationSelection": "Paris Charles de Gaulle Airport (CDG)",
+    "passengers": {
+        "adults": 2,
+        "seniors": 1,
+        "youth": 1,
+        "child": 1,
+        "seatInfant": 1,
+        "lapInfant": 1 
+    },
+    "Departure": "",
+    "Arrival": ""
+}
